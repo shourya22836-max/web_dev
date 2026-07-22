@@ -1,0 +1,13 @@
+// create a counter in a javascript that counts down from 30 to 0 
+
+let count = 30;
+
+const timer = setInterval(() => {
+    console.log(count);
+    count--;
+
+    if (count < 0) {
+        clearInterval(timer);
+        console.log("Countdown finished!");
+    }
+}, 1000);
