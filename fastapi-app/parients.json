@@ -1,0 +1,38 @@
+[
+  {
+    "patient_id": "P001",
+    "name": "Aarav Sharma",
+    "age": 32,
+    "gender": "Male",
+    "city": "Delhi",
+    "state": "Delhi",
+    "blood_group": "B+",
+    "phone": "9876543210",
+    "diagnosis": "Hypertension",
+    "doctor": "Dr. Mehta"
+  },
+  {
+    "patient_id": "P002",
+    "name": "Priya Verma",
+    "age": 27,
+    "gender": "Female",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "blood_group": "O+",
+    "phone": "9876543211",
+    "diagnosis": "Migraine",
+    "doctor": "Dr. Kapoor"
+  },
+  {
+    "patient_id": "P003",
+    "name": "Rahul Singh",
+    "age": 45,
+    "gender": "Male",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "blood_group": "A+",
+    "phone": "9876543212",
+    "diagnosis": "Diabetes",
+    "doctor": "Dr. Gupta"
+  }
+]

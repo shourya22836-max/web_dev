@@ -13,3 +13,10 @@ POST/api/users - Create new user
 PATCH/api/users/1 - Edit the user with ID 1
 
 DELETE/api/users/1 - Delete the user with ID 1
+
+
+
+
+schema - define the structure
+    schema - model
+    using model we do crud operation
